@@ -82,7 +82,7 @@
           "agent_id": "cb47929f-ba0b-409f-8f27-b57d23be6ca8",
           "agent_name": "MoonSMPDefinitivo",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 1968
         },
         "type": "agent"
       },
